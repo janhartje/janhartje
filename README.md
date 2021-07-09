@@ -11,10 +11,10 @@
 
 #### I'm a Fullstack Devopeloper/System Operator based in Hannover, Germany
 
-- Working for enercity Netz GmbH
-- living in Hannover
-
-<br />
+- 🏡 💻 for enercity Netz GmbH
+- 🏠 in Hannover
+- ❤️ coffee
+  <br />
 
 ### Languages and Tools:
 
