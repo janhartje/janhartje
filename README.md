@@ -42,6 +42,9 @@
 ![Tomcat](https://img.shields.io/static/v1?logo=Apache%20Tomcat&label=&message=tomcat&style=for-the-badge&color=454343&logoColor=white)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&style=for-the-badge&color=2996ED&logoColor=white)
 
+### Monitoring / Operations
+![Grafana](https://img.shields.io/static/v1?logo=grafana&label=&message=Grafana&style=for-the-badge&color=141619)
+![Influx](https://img.shields.io/static/v1?logo=influxdb&label=&message=InfluxDB&style=for-the-badge&color=33ADF6&logoColor=white)
 <br />
 <img align="left" alt="janhartje's GitHub Stats" src=https://github-readme-stats-alpha-cyan.vercel.app/api?username=janhartje&show_icons=true&hide_border=true&count_private=true&bg_color=30,909,ff0000&hide_rank=true&title_color=fff&text_color=fff&icon_color=fff" />
 
