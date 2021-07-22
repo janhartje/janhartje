@@ -48,7 +48,7 @@
 
 <br />
 
-<img align="left" alt="janhartje's GitHub Stats" src=https://github-readme-stats-alpha-cyan.vercel.app/api?username=janhartje&show_icons=true&hide_border=true&count_private=true&bg_color=30,909,ff0000&hide_rank=true&title_color=fff&text_color=fff&icon_color=fff" />
+![stats](https://github-readme-stats-alpha-cyan.vercel.app/api?username=janhartje&show_icons=true&hide_border=true&count_private=true&bg_color=30,909,ff0000&hide_rank=true&title_color=fff&text_color=fff&icon_color=fff)
 
 [twitter]: https://twitter.com/janhartje
 [github]: https://github.com/janhartje
