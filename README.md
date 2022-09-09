@@ -40,11 +40,13 @@
 ![Node.js](https://img.shields.io/static/v1?logo=node-dot-js&label=&message=NODE.JS&style=for-the-badge&color=339933&logoColor=white)
 ![IIS](https://img.shields.io/static/v1?logo=microsoft&label=&message=iis&style=for-the-badge&color=blue&logoColor=white)
 ![Tomcat](https://img.shields.io/static/v1?logo=Apache%20Tomcat&label=&message=tomcat&style=for-the-badge&color=454343&logoColor=white)
-![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&style=for-the-badge&color=2996ED&logoColor=white)
+
 
 ### Monitoring / Operations
 ![Grafana](https://img.shields.io/static/v1?logo=grafana&label=&message=Grafana&style=for-the-badge&color=141619)
 ![Influx](https://img.shields.io/static/v1?logo=influxdb&label=&message=InfluxDB&style=for-the-badge&color=33ADF6&logoColor=white)
+![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&style=for-the-badge&color=2996ED&logoColor=white)
+![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&style=for-the-badge&color=2996ED&logoColor=white)
 
 ### Cloud Provider
 ![Aws](https://img.shields.io/static/v1?logo=Amazon%20AWS&label=&message=Amazon%20Web%20Services&style=for-the-badge&color=orange&logoColor=white)
