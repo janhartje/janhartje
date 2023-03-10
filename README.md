@@ -60,5 +60,3 @@
 [instagram]: https://instagram.com/janhartje
 [linkedin]: https://www.linkedin.com/in/jan-hartje-78b7b7166/
 [xing]: https://www.xing.com/profile/Jan_Hartje2
-
-![](https://komarev.com/ghpvc/?username=janhartje&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24506965)
