@@ -21,11 +21,12 @@
 ### Frameworks
 
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=REACT&style=for-the-badge&color=61DAFB&logoColor=black)
-![Spring](https://img.shields.io/static/v1?logo=spring&label=&message=spring&style=for-the-badge&color=green&logoColor=white)
+![Nextjs](https://img.shields.io/static/v1?logo=next&label=&message=NextJS&style=for-the-badge&color=black&logoColor=black)
 
 ### CMS
 
 ![Magnolia](https://img.shields.io/static/v1?logo=magnolia&label=&message=Magnolia&style=for-the-badge&color=green&logoColor=white)
+![Directus](https://img.shields.io/static/v1?logo=directus&label=&message=Directus&style=for-the-badge&color=grey&logoColor=white)
 
 ### Database
 
